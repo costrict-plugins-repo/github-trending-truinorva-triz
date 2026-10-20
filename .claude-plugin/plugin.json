@@ -1,0 +1,25 @@
+{
+  "name": "truinorva-triz",
+  "description": "A comprehensive TRIZ methodology toolkit for innovation, R&D, and product teams — 26 skills covering function analysis, contradiction resolution, root-cause/conflict analysis, resource analysis, ideality, system operator, trimming, patent analysis, and more. Maintained by Truinorva GmbH.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jens Träger",
+    "email": "info@truinorva.de",
+    "url": "https://www.truinorva.de"
+  },
+  "homepage": "https://www.truinorva.de",
+  "license": "MIT",
+  "keywords": [
+    "triz",
+    "innovation",
+    "r-and-d",
+    "product-development",
+    "function-analysis",
+    "contradiction",
+    "root-cause-analysis",
+    "patent-analysis",
+    "ideality",
+    "problem-solving",
+    "creativity"
+  ]
+}
